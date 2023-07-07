@@ -1,0 +1,7 @@
+numpy
+flask
+flask_cors
+keras
+PIL
+flask_pymongo
+datetime
